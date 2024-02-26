@@ -1,14 +1,18 @@
-## Build The Sekai - We will make your life better!
-Please visit our repo 👀
-We developing anything!
+<h1 align="center">TeamSekai - Make your life better</h1>
 
-<!--
+![wallpaperflare com_wallpaper](https://github.com/TeamSekai/.github/assets/105296365/bcedd0de-dbe8-4e60-a020-a014dd30edaf)
 
-**Here are some ideas to get you started:**
+Wanna build *Sekai* with us?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We developing many projects!
+
+## Projects
+
+* [Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode) - Best utility bot w/discord.js@v14. (**This is our main project!**)
+* [cdn](https://github.com/TeamSekai/cdn) - Best simple way to share file and make CDN w/Cloudflare cache rules!
+
+***
+
+> ### TeamSekai - Sekai.dev
+> We will make our website soon...<br>
+> Copyright 2024 TeamSekai - ringoXD(prita360), Take-John.
