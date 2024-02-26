@@ -10,6 +10,7 @@ We developing many projects!
 
 * [Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode) - Best utility bot w/discord.js@v14. (**This is our main project!**)
 * [cdn](https://github.com/TeamSekai/cdn) - Best simple way to share file and make CDN w/Cloudflare cache rules!
+* [TempLinkSrv](https://github.com/TeamSekai/TempLinkSrv) - Customizeable templink server.
 
 ***
 
