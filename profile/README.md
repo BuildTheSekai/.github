@@ -15,5 +15,5 @@ We developing many projects!
 ***
 
 > ### TeamSekai - Sekai.dev
-> We will make our website soon...<br>
+> https://sekai.ringoxd.dev/<br>
 > Copyright 2024 TeamSekai - ringoXD(prita360), Take-John.
